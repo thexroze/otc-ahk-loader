@@ -1,6 +1,5 @@
 ﻿#include includes\InjectDll.ahk
 #SingleInstance force
-FileDelete, C:\OTC\*.dll
 Gui, Font, s9
 Gui, Show, w300 h130, OTC Loader
 Gui, Add, Text, x90 y10 w130 h20 +Center, OTC Loader by m4x3r1337
